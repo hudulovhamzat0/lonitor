@@ -1,4 +1,4 @@
-# System Monitor Pro ⚡
+# Lonitor ⚡
 
 A modern, feature-rich system monitoring application built with PyQt6 for Linux systems. Monitor your system's performance in real-time with an intuitive and beautiful interface.
 
